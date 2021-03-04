@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HashMapTestApp</string>
+    <string name="editTextPutCountry">Введите страну:</string>
+    <string name="edit_text_putCapital">Введите столицу:</string>
+    <string name="button_add">Добавить</string>
+    <string name="text_view_label_capital">Столица:</string>
+</resources>
